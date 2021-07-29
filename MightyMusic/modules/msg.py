@@ -1,4 +1,4 @@
-# Copyright (C) 2021 Vc-MusicINDO Yunus-ZEND 
+# Copyright (C) 2021 TM-MusicINDO Bblitzzz 
 #
 # Free Software Foundation, LICENSE GNU GPL v3.0 <https://github.com/Yunus-ZEND/MightyProject/blob/MightyProject/LICENSE>
 # Everyone is permitted to copy and distribute verbatim copies
@@ -19,7 +19,7 @@ f"""
 
 ⚪️ Nama Asisten >> @{ASSISTANT_NAME}\n\nKlik tombol dibawah untuk melihat intruksi lain**
 ◎› Owner Bot >> @{OWNER_USERNAME}
-◎› Owner Project >> @ZendYNS
+◎› Owner Project >> @Ssjhon
 """,
 
 f"""
@@ -99,8 +99,8 @@ f"""
  • /pmpermit [on/off] - enable/disable pesan pmpermit 
 __Pengguna Sudo dapat menjalankan perintah apa pun di grup mana pun__
 
-◎› Owner Project: [Yunus Zend](https://t.me/ZendYNS)
-◎› Source Code: [Click Here](https://github.com/Yunus-ZEND/VC-MusicINDO)
+◎› Owner Project: [ACEE](https://t.me/Ssjhon)
+◎› Source Code: [Click Here](https://github.com/Bblitzzz/TM-MusicINDO)
 
 """
       ]
